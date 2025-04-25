@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "userid": "admin001",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "role": "admin",
+      "id": "27d5"
+    },
+    {
+      "id": "9bdf",
+      "userid": "1745469102589",
+      "username": "thuan",
+      "email": "thuan@gmail.com",
+      "password": "123",
+      "role": "user",
+      "name": "ngo van thuan",
+      "address": "ưewe",
+      "dob": "2025-04-24",
+      "gender": "Nam"
+    },
+    {
+      "id": "a106",
+      "userid": "1745494917518",
+      "username": "thuan123",
+      "email": "vanthuan@gmail.com",
+      "password": "123",
+      "role": "user",
+      "name": "thuan@",
+      "address": "đà nẵng",
+      "dob": "2025-04-12",
+      "gender": "Nam"
+    }
+  ]
+}
