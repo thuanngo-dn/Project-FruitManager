@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../../project-react"
+		},
+		{
+			"path": "../../../GIT"
+		},
+		{
+			"path": "../../../React "
+		},
+		{
+			"path": "../../../OnPE_react"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practise-reactjs",
+		"git.ignoreLimitWarning": true
+	}
+}
